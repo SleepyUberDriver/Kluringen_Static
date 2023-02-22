@@ -45,7 +45,7 @@ analytics_id            :
 # - algolia v4 https://www.algolia.com/ - needs further configuration
 # - google custom search engine https://cse.google.es/ 
 search:
-  provider              : lunr #Select a provider for enable search: lunr, algolia, google
+  provider              :  #Select a provider for enable search: lunr, algolia, google
   label                 :  #default ["Search"] Text on navbar when search is enabled 
   landing_page          :  #default ["/search"] Link on navbar 
   lunr_maxwords         :  #default [30] lunr only - May slow down your site build
@@ -150,7 +150,7 @@ chulapa-skin:
   skin          : lymcha # Optional predefined skins
   autothemer    : true # Bool: Use autotheming
   vars          :    
-    primary     : #lightskyblue #default ["#007bff"] - Bootstrap blue
+    primary     : '#96A8C8' # lightskyblue #default ["#007bff"] - Bootstrap blue
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
