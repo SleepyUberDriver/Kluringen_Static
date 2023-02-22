@@ -115,7 +115,7 @@ navbar:
     child   :
       - title : Börja på Kluringen
         url   : /joinus # /application/joinus
-      -title  : Anmälningsformulär
+      - title  : Anmälningsformulär
         url   : /apply # /application/apply
       - title : Avgifter
         url   : /fees # /application/fees
