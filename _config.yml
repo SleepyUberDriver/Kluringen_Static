@@ -100,34 +100,34 @@ navbar:
   - title   : Verksamheten # Label
     child   :
       - title : Verksamhetsidé
-        url   : /cornerstones/ # url
+        url   : /cornerstones # /preschool/cornerstones # url
       - title : Styrdokument
-        url   : /controlleddocuments/
+        url   : /controlleddocuments # /preschool/controlleddocuments
       - title : Reggio Emilia
-        url   : /reggioemilia/
+        url   : /reggioemilia # /preschool/reggioemilia
       - title : Lokaler
-        url   : /learningenvironments/
+        url   : /learningenvironments # /preschool/learningenvironments
       - title : Öppettider
-        url   : /openinghours/
+        url   : /openinghours # /preschool/openinghours
       - title : Mat
-        url   : /meals/
+        url   : /meals # /preschool/meals
   - title   : Börja på Förskolan Kluringen
     child   :
       - title : Börja på Kluringen
-        url   : /joinus/
+        url   : /joinus # /application/joinus
       -title  : Anmälningsformulär
-        url   : /apply/
+        url   : /apply # /application/apply
       - title : Avgifter
-        url   : /fees/
+        url   : /fees # /application/fees
   - title   : Om Kluringen
     child   :
       - title : Kontakt
-        url   : /contact
+        url   : /contact # /about/contact
       - title : Dokument
-        url   : /documents
+        url   : /documents # /about/documents
       - title : Om Kluringen
-        url   : /aboutus
-        	
+        url   : /aboutus # /about/aboutus
+
 #Social links to be placed on your site footer
 footer:
   links:
