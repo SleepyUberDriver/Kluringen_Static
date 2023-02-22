@@ -1,26 +1,15 @@
 ---
-layout: default
+layout: landingpage
 title: Förskolan Kluringen
-#header_type: hero
+header_type: image
 header_img: ./images/Before_Kluringen.jpg
 subtitle: Med Barnen i Centrum
 ---
 
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+# Välkommen till Förskolan Kluringen i Eslöv
+Förskolan Kluringen är en förskola i centralt belägen i Eslöv. Vår verksamhet är inspirerad av Reggio Emilia filosofin vilken sätter barnens upptäckarlust och nyfikenhet i centrum. Denna syn på barnen genomsyrar vår verksamhet, inne som ute.
 
-Contains basic configuration to get you a site with:
+Våra lokaler ligger på Palmgatan i centrala Eslöv. De är speciellt anpassade för vår verksamhet och det finns plats för 35 barn på två avdelningar. Både miljön i lokalerna och utemiljön utvecklas kontinuerligt efter barnens intresse för att stimulera och utveckla deras nyfikenhet och upptäckarlust.
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
-
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
-
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+Förskolan Kluringen är en privat förskola som ägs av Förskolan Kluringen AB. Aktiebolaget ägs av tre förskollärare, Carina, Pernilla och Sofie, vilka alla är pedagoger i verksamheten.
