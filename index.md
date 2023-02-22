@@ -1,7 +1,7 @@
 ---
 layout: landingpage
 title: Förskolan Kluringen
-header_type: image
+header_type: splash
 header_img: ./images/Before_Kluringen.jpg
 subtitle: Med Barnen i Centrum
 ---
