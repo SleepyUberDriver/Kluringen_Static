@@ -125,7 +125,7 @@ navbar:
 footer:
   links:
     - label : Kontakta Oss # Label
-      icon  : fab fa-envelope # Fontawesome 5 icon
+      icon  : fa fa-envelope # Fontawesome 5 icon
       url   : info@forskolankluringen.se # A link or email: https://twitter.com/jack, mail@example.com
 #    - label: "RSS"
 #      icon: "fa fa-rss"
