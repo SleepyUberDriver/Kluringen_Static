@@ -25,12 +25,15 @@ author:
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              : Eslöv, Sverige   # New York, USA 
   links:                
-    - url   : https://sleepyuberdriver.github.io/Kluringen_Static/cornerstones #A link or email: https://twitter.com/jack, mail@example.com
+    - label : Verksamheten
       icon  : fa-solid fa-pen-paintbrush # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
-    - url   : https://sleepyuberdriver.github.io/Kluringen_Static/apply # Another link
+      url   : https://sleepyuberdriver.github.io/Kluringen_Static/cornerstones #A link or email: https://twitter.com/jack, mail@example.com
+    - label : Anmälan
       icon  : fa-solid fa-pen-field # Anothet FontAwesome code
-    - url   : info@forskolankluringen.se
+      url   : https://sleepyuberdriver.github.io/Kluringen_Static/apply # Another link
+    - label : Kontakt
       icon  : fa-solid fa-envelope  
+      url   : info@forskolankluringen.se
 
 fa_version: #default ["6"] Use 6 or 5
 fa_kit_code: # Your FontAwesome kit code. If not provided a free hosted version (slower) will be loaded:  https://fontawesome.com/ 
