@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: "default"
 title: "Börja på Förskolan Kluringen"
-#include_collection: cheatsheet
 permalink: /joinus
 show_breadcrumb: true
 ---
@@ -12,5 +11,5 @@ För övrig information, se Rätt till plats på Eslövs kommuns hemsida.
 ## Vad händer när ni anmält ert barn?
 När vi har tagit emot er anmälan kommer vi att e-posta en bekräftelse på att er anmälan är mottagen. Senast två månader innan önskad start kommer vi att meddela (via e-post) om ni fått plats. Vi kommer då att skicka en förfrågan om ni vill anta platsen på förskolan Kluringen. Denna ska ni svara på inom en vecka för att få er plats.
 
-Uppsägning av plats
-## Om ni vill säga upp er plats ska det ske skriftligt till oss. Uppsägningstiden är två månader. En uppsägningsblankett finns under Om Kluringen -> Blanketter. 
+## Uppsägning av plats
+Om ni vill säga upp er plats ska det ske skriftligt till oss. Uppsägningstiden är två månader. En uppsägningsblankett finns [här](assets/pdf/Uppsägningsblankett.pdf). 

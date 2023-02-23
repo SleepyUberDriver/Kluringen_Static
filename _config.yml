@@ -24,11 +24,13 @@ author:
   name                  : Förskolan Kluringen   # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              : Eslöv, Sverige   # New York, USA 
-#  links:                
-#    - url:  #A link or email: https://twitter.com/jack, mail@example.com
-#      icon: # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
-#    - url:  # Another link
-#      icon: # Anothet FontAwesome code
+  links:                
+    - url   : https://sleepyuberdriver.github.io/Kluringen_Static/cornerstones #A link or email: https://twitter.com/jack, mail@example.com
+      icon  : fa-solid fa-pen-paintbrush # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
+    - url   : https://sleepyuberdriver.github.io/Kluringen_Static/apply # Another link
+      icon  : fa-solid fa-pen-field # Anothet FontAwesome code
+    - url   : info@forskolankluringen.se
+      icon  : fa-solid fa-envelope  
 
 fa_version: #default ["6"] Use 6 or 5
 fa_kit_code: # Your FontAwesome kit code. If not provided a free hosted version (slower) will be loaded:  https://fontawesome.com/ 
@@ -78,10 +80,10 @@ algolia:
     - desc(content) 
     - desc(subtitle)
     
-comments:
-  provider:         #Enable comments via Disqus, giscus or Cactus.chat
-  disqus_shortname: #Your site id : check your address https://{{ disqus.shortname }}.disqus.com/admin/
-  cactus_shortname: #Your site id as registered with Cactus.chat
+#comments:
+#  provider:         #Enable comments via Disqus, giscus or Cactus.chat
+#  disqus_shortname: #Your site id : check your address https://{{ disqus.shortname }}.disqus.com/admin/
+#  cactus_shortname: #Your site id as registered with Cactus.chat
   
 # B. Navigation
 # Configure your navbar and the footer of your site
@@ -132,7 +134,7 @@ navbar:
 footer:
   links:
     - label : Kontakta Oss # Label
-      icon  : fa fa-envelope # Fontawesome 5 icon
+      icon  : fa-solid fa-envelope # Fontawesome 5 icon
       url   : info@forskolankluringen.se # A link or email: https://twitter.com/jack, mail@example.com
 #    - label: "RSS"
 #      icon: "fa fa-rss"
@@ -155,9 +157,9 @@ chulapa-skin:
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
-paginate: 4
-paginate_path: "/blog/page:num/"
-paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the paginator
+#paginate: 4
+#paginate_path: "/blog/page:num/"
+#paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the paginator
 
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
 collections:
