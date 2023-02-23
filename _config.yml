@@ -182,8 +182,11 @@ defaults:
   -
     scope:
       path: "assets/pdf"
+      type: "staticdocuments"
     values:
-      image : true
+      header_type       : "hero"
+      image             : true
+      show_breadcrums   : true
   -
     scope:
       path: ""
