@@ -181,6 +181,11 @@ defaults:
       cloudcategory_url   : /categories #This is where the link on categories would redirect
   -
     scope:
+      path: "assets/pdf"
+    values:
+      image : true
+  -
+    scope:
       path: ""
       type: "posts"
     values:
